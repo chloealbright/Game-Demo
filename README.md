@@ -1,5 +1,4 @@
-# Game-Demo
-Unity Game Demo
+# Unity-Game-Demo
 
 ## Contents
 * Player Animations
