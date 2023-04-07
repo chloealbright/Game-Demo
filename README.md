@@ -16,4 +16,7 @@ Unity Game Demo
 ## Preview
 * [Game Demo Preview - Watch Video](https://www.loom.com/share/777c3a0bfd1a4f2f899afed65ebb75c7)
 
+## Video
+
+https://user-images.githubusercontent.com/57193454/230558268-65b1629a-9c3c-4c2e-b45f-013a31a37e60.mp4
 
